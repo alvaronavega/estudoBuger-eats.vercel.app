@@ -30,7 +30,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feito com 💜 &nbsp;por Fernando Papito 👋 &nbsp;[Meu linkedin](https://www.linkedin.com/in/alvaronavega/)
+Feito com 💜 &nbsp;por Pro Alvaro com o curso do Fernando Papito 👋 &nbsp;[Meu linkedin](https://www.linkedin.com/in/alvaronavega/)
 
 [![Github](https://img.shields.io/badge/-Github-595D60?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/alvaronavega/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-595D60?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayaraquino//)](https://www.linkedin.com/in/alvaronavega/)
