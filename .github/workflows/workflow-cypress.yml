@@ -25,17 +25,6 @@ jobs:
           record: true
           group: 'UI - Chrome'
           spec: cypress/e2e/*
-          
-     - name: 'UI Tests - Edge'
-        uses: cypress-io/github-action@v4
-        with:
-          install-command: yarn install
-          wait-on: ${{ secrets.BASE_URL }}
-          wait-on-timeout: 120
-          browser: edge
-          record: true
-          group: 'UI - Edge'
-          spec: cypress/e2e/*
-        env:
+          env:
           CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
